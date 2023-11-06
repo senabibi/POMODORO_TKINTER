@@ -1,2 +1,0 @@
-# POMODORO_TKINTER
-100daysofpython
