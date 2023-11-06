@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/senabibi/Pomodoro_Tkinter">
-    <img src="images/logo.png" alt="Logo" width="1000" height="800">
+    <img src="images/logo.png" alt="Logo" width="500" height="400">
   </a>
 
 <h3 align="center">POMODORO </h3>
@@ -66,7 +66,6 @@ The Pomodoro Simulator project is designed to enhance productivity by implementi
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ### Built With
 
 * [![Python][Python.py]][Python-url]
@@ -95,6 +94,7 @@ Before you begin, make sure you have the following prerequisites installed on yo
 * [PyCharm](https://www.jetbrains.com/pycharm/download/): If you prefer running the project locally in PyCharm, make sure to install PyCharm on your system.
 
 * [Turtle Graphics Library](https://docs.python.org/3/library/turtle.html): Ensure that you have the Turtle graphics library installed, which is typically included with Python.
+![Pomodoro Simulato Demo](https://github.com/senabibi/Pomodoro_Tkinter/blob/main/images/code.gif)
 
 ### Installation
 
